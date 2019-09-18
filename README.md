@@ -4,7 +4,7 @@ This plugin was developed to try to quantify the accumulation of a protein (i.e.
 
 When use Synapse Measures plugin, Please, cite this paper: Calabia-Linares C, et al. Endosomal clathrin drives actin accumulation at the immunological synapse. Journal of Cell Science 24(Pt 5):820-30. 2011.
 
-•STEP 1. It is better to try to analyze the maximal projection of the image channel you select using ImageJ/Fiji -> ZProject... tool (ImageJ/Fiji -> Stacks -> ZProject... -> Max Intensity) althought this step is not essential, you can start analyzing whichever image type you desire.
+•STEP 1. It is better to try to analyze the maximal projection of the image channel you select using ImageJ/Fiji -> ZProject... tool (ImageJ/Fiji -> Stacks -> ZProject... -> Max Intensity) althought this step is not essential, you can start analyzing whichever image type or bit depth you desire.
 
 •STEP 2. Select Synapse Measures plugin (ImageJ/Fiji ->Plugings -> Synapse Measures) and then click “Initialize” button.
 
