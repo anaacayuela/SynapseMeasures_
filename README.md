@@ -10,7 +10,7 @@ When use Synapse Measures plugin, Please, cite this paper: Calabia-Linares C, et
 
 •STEP 3. At this point, you should select the counter type. It is recommended to start with “Type Bg” counter to mark the background by clicking with the mouse several times over the image background (outside cell structure).
 
-•STEP 4. Click on  “type Tsyn” counter to mark the area in cell to cell contact site.STEP 4. Click on “Type B” counter to mark the area in the cell B (not at the cell to cell contact site). (*)IMPORTANT: the circles must be half in the cell and half outside.
+•STEP 4. Click on “Type B” counter to mark the area in the cell B (not at the cell to cell contact site). (*)IMPORTANT: the circles must be half in the cell and half outside.
 
 •STEP 5. Click on “Type Tsyn” counter to mark the area in cell to cell contact site.
 
