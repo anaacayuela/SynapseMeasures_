@@ -46,6 +46,7 @@ Click “Measure Cell” button. At this point, you will obtain the ratio of the
 ![stepssfinal](https://user-images.githubusercontent.com/54528366/65421705-af12ef80-de04-11e9-8db5-fb18357092f6.png)
 ![droppedImage_11 (1)](https://user-images.githubusercontent.com/54528366/65421731-c356ec80-de04-11e9-842f-fc641c00aa72.jpg)
 
-•STEP 8. Repeat these previous steps as many measurements as you need. (The data will be saved by the program). Once finish, press on “Final Measure” button. The data corresponding to the “Ratio” from all measurements will appear in a new window called "Results" and they can be exported for further analysis.
+## •STEP 8.
+Repeat these previous steps as many measurements as you need. (The data will be saved by the program). Once finish, press on “Final Measure” button. The data corresponding to the “Ratio” from all measurements will appear in a new window called "Results" and they can be exported for further analysis.
 
 Note: the size/area of the circles can be adjusted by using the “Larger” (bigger size) or “Smaller” (smaller size) buttoms. If you want to delete the last circle made, you should press on “Delete” button. Moreover, if you need to delete every circle made, you shall press on "Reset" button.
